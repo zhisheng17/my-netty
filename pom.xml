@@ -240,6 +240,7 @@
     <module>testsuite-osgi</module>
     <module>microbench</module>
     <module>bom</module>
+    <module>mytest</module>
   </modules>
 
   <dependencyManagement>
